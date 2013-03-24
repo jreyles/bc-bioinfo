@@ -1,4 +1,4 @@
-max_clique
+BioCurious Bioinformatics Community Project Repo
 ==========
 
-Maximum clique project for Design and Analysis of Algorithms course. Authors: Chris Rehfeld, Jonathan Reyles. Coded in Python.
+Testing this out.
