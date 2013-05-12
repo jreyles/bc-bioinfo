@@ -1,0 +1,12 @@
+application: crisproligodesigner
+version: 1
+runtime: python27
+api_version: 1
+threadsafe: true
+
+handlers:
+- url: /crisproligodesigner
+  script: crisproligodesigner.app
+
+- url: /.*
+  script: helloworld.app
